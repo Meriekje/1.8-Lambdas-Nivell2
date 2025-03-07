@@ -26,9 +26,10 @@ Create a functional interface that contains a method called operation(). This me
 ## Exercise 4 - Mixed List Processing
 ### Task:
 Create a list containing both strings and numbers. Perform the following operations:
-1. Sort the list alphabetically based on the first character. Strings containing "e" should appear first.
-2. Replace all occurrences of 'a' with '4' in the strings.
-3. Print only the numeric values (even if they are stored as strings).
+1. Sort the list alphabetically based on the first character.
+2. Strings containing "e" should appear first.
+3. Replace all occurrences of 'a' with '4' in the strings.
+4. Print only the numeric values (even if they are stored as strings).
 ### Explanation:
 - We create a mixed list of strings and numbers.
 - The list is sorted based on the first character and strings containing "e" are prioritized.
